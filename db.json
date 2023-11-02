@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "james",
+            "email": "james@james.com",
+            "review": "I love the website"
+        },
+        {
+            "id": 2,
+            "name": "tracy",
+            "email": "tracy@tracy.com",
+            "review": "The currency calculator is awesome"
+        },
+        {
+            "id": 3,
+            "name": "dollie",
+            "email": "dollie@dolie.com",
+            "review": "The layout of the website is fantastic"
+        }
+    ]
+}
